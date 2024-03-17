@@ -1,5 +1,5 @@
 ## Git PHP Nginx
-A basic nginx php-fpm container that will clone and build a php app and run it. This runs `PHP 8.0`.
+A basic nginx php-fpm container that will clone and build a php app and run it. This runs `PHP 8.3`.
 
 This is the repository for the [`vladerc/git-php-nginx`](https://hub.docker.com/repository/docker/vladerc/git-php-nginx) Docker image.
 
